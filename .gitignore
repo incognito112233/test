@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-1
+10
 # Test binary, built with `go test -c`
 *.test
 20
