@@ -4,7 +4,7 @@
 # Binaries for programs and plugins
 *.exe
 *.exe~
-*.dll
+*.dll111
 *.so
 *.dylib
 105345345
