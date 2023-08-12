@@ -2,9 +2,9 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #11114112534534534
 # Binaries for programs and plugins
-*.exe
+*.exe089
 *.exe~
-*.dll11134576
+*.dll11134576098
 *.so
 *.dylib
 105345345
